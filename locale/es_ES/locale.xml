@@ -18,4 +18,21 @@
 	<message key="plugins.generic.paperbuzz.loading">Cargando métricas ...</message>
 
 	<message key="plugins.generic.paperbuzz.settings">Configuración</message>
+
+	<message key="plugins.generic.paperbuzz.metrics">Métricas</message>
+	<message key="plugins.generic.paperbuzz.settings.apiEmail">E-mail</message>
+	<message key="plugins.generic.paperbuzz.settings.apiEmail.description">Debe proveer una dirección de e-mail para utilizar el servicio de Paperbuzz.</message>
+	<message key="plugins.generic.paperbuzz.settings.apiEmail.required">E-mail es obligatorio.</message>
+	<message key="plugins.generic.paperbuzz.settings.graph.description">Presenta gráficos que muestran una línea de tiempo sobre el detalle del uso(en tamaño grande) y sólo las cantidades (en tamaño pequeño)
+	<message key="plugins.generic.paperbuzz.settings.showGraph">Mostrar gráficis</message>
+	<message key="plugins.generic.paperbuzz.settings.showMini">Mostrar versión compacta</message>
+	<message key="plugins.generic.paperbuzz.settings.downloads">Descargas</message>
+	<message key="plugins.generic.paperbuzz.settings.hideDownloads">Ocultar descargas de artículos (sólo mostrar métricas de Paperbuzz).</message>
+	<message key="plugins.generic.paperbuzz.sourceName.pdf">Visualizacionde de PDF</message>
+	<message key="plugins.generic.paperbuzz.sourceName.html">Visualizacionde de HTML</message>
+	<message key="plugins.generic.paperbuzz.sourceName.other">Visualizacionde de otros formatos</message>
+
 </locale>
+
+
+
